@@ -17,8 +17,8 @@ namespace ProjetoWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-            ViewData["Email"] = "cuzinho@gmail.com";
+            ViewData["Message"] = "Site em Construção!";
+            ViewData["Email"] = "fabio.fellipe99@gmail.com";
             return View();
         }
 
